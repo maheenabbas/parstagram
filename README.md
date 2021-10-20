@@ -51,4 +51,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='FinalGif1.gif' />
+<img src='ezgif.com-gif-maker (5).gif' />
